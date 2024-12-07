@@ -15,6 +15,6 @@ public class App {
         IndexController indexController = new IndexController();
         
         app.get("/", indexController.get);
-        
+        app.get("/helloworld", indexController.ola);
     }
 }
