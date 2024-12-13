@@ -4,7 +4,6 @@ import br.edu.ifpr.pgua.eic.tads.controllers.CadastroController;
 import br.edu.ifpr.pgua.eic.tads.controllers.IndexController;
 import br.edu.ifpr.pgua.eic.tads.models.Cadastro;
 import br.edu.ifpr.pgua.eic.tads.utils.JavalinUtils;
-import io.javalin.Javalin;
 
 /**
  * Hello world!
